@@ -1,5 +1,7 @@
 # Vite vanilla TDD
 
+## See [fireship](https://youtu.be/Q7AOvWpIVHU)
+
 ```bash
 yarn create vite . --template vanilla
 yarn create @eslint/config
@@ -24,4 +26,8 @@ yarn add react-loader-spinner
 
 ```json
 { "test": "jest --watchAll --verbose" }
+```
+
+```bash
+yarn add three
 ```
